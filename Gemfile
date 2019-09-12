@@ -19,7 +19,7 @@ gem 'uglifier', '>= 1.3.0'
 # Using bootstrap
 gem 'bootstrap', '~> 4.3.1'
 # Using devise
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
